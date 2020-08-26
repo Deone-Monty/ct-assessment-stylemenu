@@ -98,7 +98,7 @@ address {
     Add a CSS ruleset targeting the footer to accomplish the following:
         - Draw a 2px dashed rosybrown border
 */
-div footer {
+div h2 {
     background-color: none;
     border-block-end-width: rosybrown;
     border: 2px dashed rosybrown;
