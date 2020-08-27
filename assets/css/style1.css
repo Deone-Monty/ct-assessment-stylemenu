@@ -6,6 +6,7 @@
 */
 body {
     background-image: url("../images/map-bg.jpg");
+    background-size: cover;
     font-family: "lato";
     font-size: 18px;
     
@@ -98,12 +99,11 @@ address {
     Add a CSS ruleset targeting the footer to accomplish the following:
         - Draw a 2px dashed rosybrown border
 */
-div h2 {
+
+footer {
     background-color: none;
-    border-block-end-width: rosybrown;
     border: 2px dashed rosybrown;
-    padding: 2px;
-    margin: 2px auto;
-    
-    
+
 }
+
+    
